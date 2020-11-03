@@ -10,6 +10,13 @@ On 2020-08-17, I used scikit learn to train the model. The notebook is uploaded 
 - I also added one simple linear regression model built with scikit-learn for the prediction of salaries based on the years of experience taken from the course "Machine Learning A-Z" (Udemy))
 - the model can be found here in this repository: 201027-LinearRegression-Salaries.ipynb
 
+## Additional support vector regression (SVR) model
+
+- I also added one SVR model built with scikit-learn for the prediction of salaries based on the years of experience taken from the course "Machine Learning A-Z" (Udemy))
+- the model can be found here in this repository: 201102-SVR-Salaries.ipynb
+- the simple linear regression model and the SVR model are trained on the same dataset, but performance is different (the SVR does not correctly predict the salary for the postion level 10). 
+
+
 ## Additional multiple linear regression model
 
 - I also added one multiple linear regression model built with scikit-learn for the prediction of startup profits based on multiple feature variables taken from the course "Machine Learning A-Z" (Udemy))
