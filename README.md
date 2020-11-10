@@ -23,5 +23,12 @@ On 2020-08-17, I used scikit learn to train the model. The notebook is uploaded 
 - the model can be found here in this repository: 201030-MultLinReg-Startups.ipynb
 - the dataset can be found here in this repository: 50_Startups.csv
 
+## Additional decision tree regression model
+
+- I also added one decision tree regression model built with scikit-learn for the prediction of the car prices based on multiple feature variables
+- the model can be found here in this repository: 201111-DecTreeReg-CarPrice-Clean.ipynb
+- the dataset can be found here in this repository: car_price_data.csv
+- the rmse is much lower than of the model in this notebook: 200817-car-scikit.ipynb
+- it would be interesting to check whether that is due to the different model type or due to the more carfully applied missing value imputing methods
 
 
